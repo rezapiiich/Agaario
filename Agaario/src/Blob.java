@@ -1,6 +1,6 @@
 import java.awt.Color;
 import java.awt.Graphics;
-
+//test
 import javax.swing.JComponent;
 
 public class Blob extends JComponent{
